@@ -154,6 +154,8 @@ var Twison = {
         dict[attr] = value;
       }
     });
+    
+    dict["tags"] = story.attributes["tags"].value.split(' ')
 
     // Add PIDs to links
     var pidsByName = {};

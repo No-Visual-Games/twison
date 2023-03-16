@@ -1,6 +1,6 @@
 {
   "name": "Twison",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Export your Twine 2 story as a JSON document",
   "main": "format.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/lazerwalker/twison"
   },
-  "author": "Em Lazer-Walker",
+  "author": "No Visual Games",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lazerwalker/twison/issues"
